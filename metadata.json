@@ -1,0 +1,8 @@
+{
+  "name": "Fix & Sell Repair Shop",
+  "description": "Fast, affordable phone and tablet repairs in Covington, GA. Screen repair, battery replacement, water damage & more. Walk-ins welcome.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
