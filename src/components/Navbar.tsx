@@ -8,7 +8,6 @@ export function Navbar() {
       </a>
       <ul className="hidden md:flex gap-6 list-none m-0 p-0">
         <li><a href="#services" className="text-[10px] uppercase tracking-[0.3em] font-bold text-white/60 hover:text-white transition-colors duration-200">Services</a></li>
-        <li><a href="#ai-tool" className="text-[10px] uppercase tracking-[0.3em] font-bold text-white/60 hover:text-white transition-colors duration-200">Get a Quote</a></li>
         <li><a href="#location" className="text-[10px] uppercase tracking-[0.3em] font-bold text-white/60 hover:text-white transition-colors duration-200">Location</a></li>
       </ul>
       <a href="tel:+14704441499" className="border border-white/20 text-white font-display text-[10px] uppercase tracking-[0.2em] font-black px-5 py-2 no-underline cursor-pointer transition-all duration-200 hover:bg-white hover:text-black hover:-translate-y-px hidden md:inline-block">
